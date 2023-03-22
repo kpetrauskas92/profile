@@ -22,4 +22,8 @@ I am Karolis, but people call me Carlos, i'm a Full Stack Developer Student @ [C
 
 ![snake gif](https://github.com/kpetrauskas92/kpetrauskas92/blob/output/github-contribution-grid-snake-dark.svg)
 
+## 🏅 Participation Badges
+
+![March 2023 Hackaton](link=https://eu.badgr.com/public/assertions/850-_-KPSeq4VS26pkeBNQ?identity__email=k.petrauskas92@gmail.com)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpetrauskas92.kpetrauskas92)
