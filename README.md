@@ -6,7 +6,7 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=-square&logo=instagram&logoColor=white&link=https://instagram.com/karolis.photos/)](https://instagram.com/karolis.photos)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=-square&logo=Gmail&logoColor=white&link=mailto:k.petrauskas92+dev@gmail.com)](mailto:k.petrauskas92+dev@gmail.com)
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/%20JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/%20Python-000000?style=for-the-badge&logo=Python&logoColor=blue)
@@ -16,16 +16,16 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 ![GitHub](https://img.shields.io/badge/%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/%20Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098)
 
-## 🚀 Frameworks
+### 🚀 Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 
-## 🖥️ IDE
+### 🖥️ IDE
 
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=orange)
 ![VSC](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 
-## 🖍 Design
+### 🖍 Design
 
 ![Photoshop](https://img.shields.io/badge/%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
 ![Lightroom](https://img.shields.io/badge/%20Lightroom-000000?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF)
