@@ -15,16 +15,16 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 ![Git](https://img.shields.io/badge/%20Git-000000?style=for-the-badge&logo=git&logoColor=E44C30)
 ![GitHub](https://img.shields.io/badge/%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/%20Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098)
-
+---
 #### 🚀 ***Frameworks***
 
 ![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-
+---
 #### 🖥️ ***IDE***
 
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=orange)
 ![VSC](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-
+---
 #### 🖍 ***Design***
 
 ![Photoshop](https://img.shields.io/badge/%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
