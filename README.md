@@ -20,7 +20,7 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 
 ![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 
-## 👩‍💻 IDE
+## 🖥️ IDE
 
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=orange)
 ![VSC](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
