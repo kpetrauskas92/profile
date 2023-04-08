@@ -7,37 +7,29 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=-square&logo=Gmail&logoColor=white&link=mailto:k.petrauskas92+dev@gmail.com)](mailto:k.petrauskas92+dev@gmail.com)
 
 
-### ⚡ ***Technologies:***
-<table><tr><td>
+#### ⚡ ***Technologies:***
   
-![JavaScript](https://img.shields.io/badge/%20JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/%20Python-000000?style=for-the-badge&logo=Python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/%20HTML5-000000?style=for-the-badge&logo=Html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/%20CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/%20Git-000000?style=for-the-badge&logo=git&logoColor=E44C30)
-![GitHub](https://img.shields.io/badge/%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/%20Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098)
-</td></tr></table>
+![JavaScript](https://img.shields.io/badge/%20JavaScript-000000?style=square&logo=JavaScript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/%20Python-000000?style=square&logo=Python&logoColor=blue)
+![HTML5](https://img.shields.io/badge/%20HTML5-000000?style=square&logo=Html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/%20CSS3-000000?style=square&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/%20Git-000000?style=square&logo=git&logoColor=E44C30)
+![GitHub](https://img.shields.io/badge/%20GitHub-000000?style=square&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/%20Heroku-000000?style=square&logo=heroku&logoColor=430098)
 
-### 🚀 ***Frameworks:***
-<table><tr><td>
+#### 🚀 ***Frameworks:***
 
-![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-</td></tr></table>
+![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=square&logo=bootstrap&logoColor=563D7C)
 
-### 🖥️ ***IDE:***
-<table><tr><td>
+#### 🖥️ ***IDE:***
 
-![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=orange)
-![VSC](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-</td></tr></table>
+![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=square&logo=gitpod&logoColor=orange)
+![VSC](https://img.shields.io/badge/VSCode-000000?style=square&logo=visual%20studio%20code&logoColor=0078D4)
 
-### 🖍 ***Design:***
-<table><tr><td>
+#### 🖍 ***Design:***
 
-![Photoshop](https://img.shields.io/badge/%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
-![Lightroom](https://img.shields.io/badge/%20Lightroom-000000?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF)
-</td></tr></table>
+![Photoshop](https://img.shields.io/badge/%20Photoshop-000000?style=square&logo=Adobe%20Photoshop&logoColor=31A8FF)
+![Lightroom](https://img.shields.io/badge/%20Lightroom-000000?style=square&logo=Adobe%20Lightroom&logoColor=31A8FF)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kpetrauskas92&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpetrauskas92&hide=TeX&layout=compact)
