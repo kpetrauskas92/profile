@@ -16,6 +16,7 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 ![Git](https://img.shields.io/badge/%20Git-000000?style=square&logo=git&logoColor=E44C30)
 ![GitHub](https://img.shields.io/badge/%20GitHub-000000?style=square&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/%20Heroku-000000?style=square&logo=heroku&logoColor=430098)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=square&logo=netlify&logoColor=#00C7B7)
 
 #### 🚀 ***Frameworks:***
 
