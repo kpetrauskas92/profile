@@ -4,7 +4,7 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kpetrauskas92/)](https://www.linkedin.com/in/kpetrauskas92/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=-square&logo=instagram&logoColor=white&link=https://instagram.com/karolis.photos/)](https://instagram.com/karolis.photos)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=-square&logo=Gmail&logoColor=white&link=mailto:k.petrauskas92+dev@gmail.com)](mailto:k.petrauskas92+dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=-square&logo=Gmail&logoColor=white&link=mailto:pkarolis.dev@gmail.com)](mailto:k.petrauskas92+dev@gmail.com)
 
 
 #### ⚡ ***Technologies:***
