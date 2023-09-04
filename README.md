@@ -21,6 +21,8 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 #### 🚀 ***Frameworks:***
 
 ![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=square&logo=bootstrap&logoColor=563D7C)
+![TailwindCSS](https://img.shields.io/badge/%20TailwindCSS-000000?style=square&logo=tailwindcss&logoColor=07B0CE)
+![Django](https://img.shields.io/badge/%20Django-000000?style=square&logo=django&logoColor=092D1F)
 
 #### 🖥️ ***IDE:***
 
