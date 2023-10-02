@@ -1,6 +1,6 @@
 # ***Welcome to my GitSpace!*** 👨‍💻 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpetrauskas92.kpetrauskas92)
 
-Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Stack Developer student at Code Institute. I have a great passion for technology and nature. I am always eager to collaborate on new projects and innovative ideas. If you want to get in touch with me, you can do so here:
+Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Stack Developer student at ⭕ Code Institute. I have a great passion for technology and nature. I am always eager to collaborate on new projects and innovative ideas. If you want to get in touch with me, you can do so here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kpetrauskas92/)](https://www.linkedin.com/in/kpetrauskas92/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=-square&logo=instagram&logoColor=white&link=https://instagram.com/karolis.photos/)](https://instagram.com/karolis.photos)
