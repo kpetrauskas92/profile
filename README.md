@@ -45,6 +45,11 @@ Hi, I'm Karolis, but I usually go by the name Carlos. Currently, I am a Full Sta
 
 ## 🏅 Participation Badges
 
-<a href="https://eu.badgr.com/public/assertions/850-_-KPSeq4VS26pkeBNQ?identity__email=k.petrauskas92@gmail.com">
-  <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
-</a>
+<div style="align center">
+  <a href="https://eu.badgr.com/public/assertions/850-_-KPSeq4VS26pkeBNQ?identity__email=k.petrauskas92@gmail.com">
+    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
+  </a>
+  <a href="https://eu.badgr.com/public/assertions/1iQhUFk_RVOSe4sgWn0Ocw?identity__email=k.petrauskas92@gmail.com">
+    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
+  </a>
+</div>
