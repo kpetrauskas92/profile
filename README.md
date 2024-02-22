@@ -54,6 +54,6 @@ After completing my Full Stack Developer course at the Code Institute, my enthus
     <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
   </a>
   <a href="https://api.eu.badgr.io/public/assertions/fRNBtq4_T0-qwFOFdGjh1A?identity__email=k.petrauskas92%40gmail.com">
-    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
+    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Feb%202024%20Hackathon.png" width="150">
   </a>
 </div>
